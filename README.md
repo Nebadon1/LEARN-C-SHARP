@@ -7,4 +7,6 @@ C# is a general-purpose, multi-paradigm programming language encompassing static
 
 ## List Down the differences between Public, Static, Void keywords.
 
-### STATIC: Is use to declare members of a type specific to that type.
+### STATIC: Is use to declare members of a type specific to that typeu.
+### VOID: State the method, but does NOT return any Value. 
+### PUBLIC: It is a access specifier, Which state the method of a class that can be accessed publicly. 
