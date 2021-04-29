@@ -52,4 +52,8 @@ XML: ///
 4. PROTECTED INTERNAL. 
 5. PROTECTED.
 
+## Differences between continue and Break Statements
 
+| Brake | Continue |
+| ---- | ---- | 
+| Finish and Return What executed | Will continue with the code execution |
