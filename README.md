@@ -57,3 +57,39 @@ XML: ///
 | Brake | Continue |
 | ---- | ---- | 
 | Finish and Return What executed | Will continue with the code execution |
+
+##Aproaches to pass Parameters to methods. 
+
+1. VALUE parameters. 
+2. REFERENCE parameters. 
+3. OUPUT parameters 
+
+## Differences Between FINALLY and FINALIZE blocks 
+
+FINALLY is called after execution of TRY and CATCH blocks. 
+FINALIZE is called jus before garbage colection. Clean up alteration and manage code, is automatically called. 
+
+## What is MANAGE and UNMANAGE code. 
+
+-MANAGE code: is executed by CLRm all the application code is dependent on .NET plattform. 
+-UNMANAGE code: Executed by runtime apps. other estructure. the run time app deal with memory security and other executions. 
+
+## What is a object?
+
+Is a instance of a class, created by the "NEW", keyword in c\#.
+
+##What is a class?
+Is the blueprint of a object.
+Define different funtionalities a object will have. 
+"class" keyword. 
+
+## What is a abstract class?
+
+Is a class that objects can NOT be instaciated. 
+Follow a single approach. 
+
+## Define Sealed classes in C\#?
+
+Seales classes are used to restrict inheritance. 
+ -sealed modifiers
+
